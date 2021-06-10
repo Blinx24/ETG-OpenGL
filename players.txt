@@ -1,0 +1,24 @@
+//////////////////////////////////////////////////
+Jugador: Anthony
+Vida: 3
+Asesinatos: 6
+Puntos: 865
+Escenas completadas: 4
+//////////////////////////////////////////////////
+Jugador: Nacho
+Vida: 6
+Asesinatos: 6
+Puntos: 1180
+Escenas completadas: 4
+//////////////////////////////////////////////////
+Jugador: Hee
+Vida: 7
+Asesinatos: 5
+Puntos: 1185
+Escenas completadas: 4
+//////////////////////////////////////////////////
+Jugador: gg
+Vida: 9
+Asesinatos: 6
+Puntos: 1495
+Escenas completadas: 4
